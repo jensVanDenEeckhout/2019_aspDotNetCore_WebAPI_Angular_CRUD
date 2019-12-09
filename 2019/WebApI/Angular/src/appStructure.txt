@@ -1,0 +1,12 @@
+src
+    payment-details
+        payment-detail
+        payment-detai-list
+        shared - payment-detail service
+                - payment-detail-model
+
+
+
+
+module.ts
+share class with multiple componeents oyou neeed to inject into module.ts
